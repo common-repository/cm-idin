@@ -1,0 +1,70 @@
+/* line 3, ../sass/style.scss */
+.cm-idin-container {
+  background: #d3e9ea;
+  color: #000;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: row wrap;
+      flex-flow: row wrap;
+  margin-bottom: 1rem;
+  padding: 10px;
+}
+/* line 15, ../sass/style.scss */
+.cm-idin-container a {
+  color: #00b0f0;
+}
+/* line 19, ../sass/style.scss */
+.cm-idin-container .cm-idin-item {
+  -ms-flex: 1;
+      flex: 1;
+  min-width: 10em;
+  padding: 10px;
+}
+/* line 27, ../sass/style.scss */
+.cm-idin-container .cm-idin-media {
+  -ms-flex-align: center;
+      align-items: center;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-positive: 1.5;
+      flex-grow: 1.5;
+  min-width: 20em;
+}
+/* line 37, ../sass/style.scss */
+.cm-idin-container .cm-idin-media-body {
+  -ms-flex: 1 1 0%;
+      flex: 1 1 0%;
+}
+/* line 41, ../sass/style.scss */
+.cm-idin-container .cm-idin-logo {
+  height: 64px;
+  margin-right: 20px;
+  width: 64px;
+}
+/* line 49, ../sass/style.scss */
+.cm-idin-container .cm-idin-form-group {
+  margin-bottom: 1rem;
+}
+/* line 53, ../sass/style.scss */
+.cm-idin-container .cm-idin-form-control {
+  min-width: 10em;
+  width: 100%;
+}
+/* line 58, ../sass/style.scss */
+.cm-idin-container .cm-idin-btn {
+  background: #00b0f0;
+  color: #fff;
+  display: inline-block;
+  padding: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+}
+/* line 73, ../sass/style.scss */
+.cm-idin-container .cm-idin-btn + .cm-idin-btn {
+  margin-top: 1rem;
+}
+/* line 77, ../sass/style.scss */
+.cm-idin-container .cm-idin-btn-secondary {
+  background-color: #1d5393;
+}
